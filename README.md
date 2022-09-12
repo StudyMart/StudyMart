@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Study Mart</h1>
 <h3 align="center">You can learn data science from us.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=studymart" alt="studymart" /></a> </p>
-
 - 🔭 I’m currently working on [Study Mart](https://www.youtube.com/c/studymart)
 
 - 🌱 I’m currently learning **DATA SCIENCE**
@@ -19,5 +17,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=studymart&show_icons=true&locale=en&layout=compact" alt="studymart" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=studymart&show_icons=true&locale=en" alt="studymart" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=studymart&" alt="studymart" /></p>
