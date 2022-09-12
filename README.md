@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Study Mart</h1>
-<h3 align="center">You can learn data science from us.</h3>
+<h2 align="center">Greetings, It's Study Mart</h2>
+<h4 align="center">You can learn data science from us.</h4>
 
 - 🔭 I’m currently working on [Study Mart](https://www.youtube.com/c/studymart)
 
