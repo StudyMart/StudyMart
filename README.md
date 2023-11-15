@@ -1,9 +1,7 @@
 <h2 align="center">Greetings, It's Study Mart</h2>
 <h4 align="center">You can learn data science from us.</h4>
 
-- 🔭 I’m currently working on [Study Mart](https://www.youtube.com/c/studymart)
-
-- 🌱 I’m currently learning **DATA SCIENCE**
+- 🔭 We are currently working on [Study Mart](https://www.youtube.com/c/studymart)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
